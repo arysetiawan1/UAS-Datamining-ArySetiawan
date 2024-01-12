@@ -17,8 +17,8 @@
 * *Matplotlib*
 * *Seaborn*
 
-### For Model-training
-* sklearn.model_selection - train_test_split
+### *For Model-training*
+* *sklearn.model_selection* - train_test_split
 * sklearn.linear_model - LogisticRegression
 
 
