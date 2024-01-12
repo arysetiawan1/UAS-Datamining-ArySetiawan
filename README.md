@@ -1,4 +1,4 @@
-# **Prediksi Kanker Payudara Menggunakan Machine Learning**
+# *Prediksi Kanker Payudara Menggunakan Machine Learning*
 
 Classifier WebApp dibangun dengan menggunakan Streamlit (Python-Framework). Tujuannya untuk mengkategorikan seseorang terkena Penyakit Kanker Payudara atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah Logistic Regression. App ini juga dapat mengenerate Visualized report dengan data pasien.
 
