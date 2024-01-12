@@ -14,8 +14,8 @@
 ### *For EDA*
 * *NumPy*
 * *Pandas*
-* Matplotlib
-* Seaborn
+* *Matplotlib*
+* *Seaborn*
 
 ### For Model-training
 * sklearn.model_selection - train_test_split
