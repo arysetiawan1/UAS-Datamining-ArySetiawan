@@ -11,9 +11,9 @@
 * *Jupyter Notebook*
 * *Google Colaboratory*
 
-### For EDA
-* NumPy
-* Pandas
+### *For EDA*
+* *NumPy*
+* *Pandas*
 * Matplotlib
 * Seaborn
 
