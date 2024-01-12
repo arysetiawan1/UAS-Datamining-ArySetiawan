@@ -26,5 +26,5 @@
 * *GitHub*
 
 ## *References*
-* For Dataset [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
-* For UI [Streamlit](https://streamlit.io/)
+* *For Dataset [Kaggle](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)*
+* *For UI [Streamlit](https://streamlit.io/)*
