@@ -6,10 +6,10 @@
 ## *Technologies Used:*
 
 ### For Development
-* Python3 (Programming Language)
-* Streamlit (Python-Framework)
-* Jupyter Notebook
-* Google Colaboratory
+* *Python3 (Programming Language)*
+* *Streamlit (Python-Framework)*
+* *Jupyter Notebook*
+* *Google Colaboratory*
 
 ### For EDA
 * NumPy
