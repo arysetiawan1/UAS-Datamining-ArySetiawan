@@ -11,7 +11,7 @@ import seaborn as sns
 import pickle 
 
 #import model
-lr = pickle.load(open('logistic_regresion.pkl','rb'))
+lr = pickle.load(open('LogisticRegression.pkl','rb'))
 
 #load dataset
 data = pd.read_csv('Breast Cancer.csv')
@@ -29,7 +29,7 @@ html_layout1 = """
 <br>
 """
 st.markdown(html_layout1,unsafe_allow_html=True)
-activities = ['logistic regression']
+activities = ['Logistic Regression']
 option = st.sidebar.selectbox('Pilihan Model Algoritma',activities)
 st.sidebar.header('Data Pasien')
 
