@@ -22,7 +22,7 @@
 * *sklearn.linear_model* - *LogisticRegression*
 
 
-### Deployment
+### *Deployment*
 * GitHub
 
 ## References
