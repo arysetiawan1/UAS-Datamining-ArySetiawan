@@ -1,6 +1,6 @@
 # **Prediksi Kanker Payudara Menggunakan Machine Learning**
 
-Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengkategorikan kanker payudara atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah Logistic Regression. App ini juga dapat mengenerate visualized report dengan data pasien.
+Classifier WebApp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengkategorikan kanker payudara atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah Logistic Regression. App ini juga dapat mengenerate visualized report dengan data pasien.
 
 
 ## **Technologies Used:**
