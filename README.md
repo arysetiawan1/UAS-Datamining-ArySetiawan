@@ -1,6 +1,6 @@
 # **Prediksi Kanker Payudara Menggunakan Machine Learning**
 
-Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengkategorikan Diabetes atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah SVM. App ini juga dapat mengenerate visualized report dengan data pasien.
+Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengkategorikan kanker payudara atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah Linear Regression. App ini juga dapat mengenerate visualized report dengan data pasien.
 
 
 ## **Technologies Used:**
@@ -19,7 +19,7 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 
 ### For Model-training
 * sklearn.model_selection - train_test_split
-* sklearn.svm - SVC
+* sklearn.svm - Linear Regression
 
 
 ### Deployment
